@@ -1,0 +1,6 @@
+logging.level.org.springframework.web=DEBUG
+
+server.port=8181
+
+spring.h2.console.enabled=true
+spring.h2.console.path=/h2
